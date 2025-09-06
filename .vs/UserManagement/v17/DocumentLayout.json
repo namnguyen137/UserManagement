@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\dtos\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:dtos\\usercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A92F0-20DB-4CA1-8638-48BA7B3AEB33}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement.tests\\duplicateemailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A92F0-20DB-4CA1-8638-48BA7B3AEB33}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement.tests\\passwordhashertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92A92F0-20DB-4CA1-8638-48BA7B3AEB33}|..\\UserManagement.Tests\\UserManagement.Tests.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement.tests\\paginglogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\cqrs\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:cqrs\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\dtos\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:dtos\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\cqrs\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:cqrs\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\cqrs\\queries\\searchusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:cqrs\\queries\\searchusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\cqrs\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:cqrs\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\cqrs\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:cqrs\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\repositories\\inmemoryuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:repositories\\inmemoryuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\cqrs\\interfaces\\ihandlerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:cqrs\\interfaces\\ihandlerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|c:\\users\\hobert.nguyen\\desktop\\personal\\usermanagement\\dtos\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F84D9-321E-4356-A3C4-39946995FD85}|UserManagement.csproj|solutionrelative:dtos\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Utils\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Utils\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Utils\\PasswordHasher.cs",
+              "RelativeToolTip": "Utils\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:58:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T15:56:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHasherTests.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement.Tests\\PasswordHasherTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\PasswordHasherTests.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement.Tests\\PasswordHasherTests.cs",
+              "RelativeToolTip": "..\\UserManagement.Tests\\PasswordHasherTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:54:57.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DuplicateEmailTests.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement.Tests\\DuplicateEmailTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\DuplicateEmailTests.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement.Tests\\DuplicateEmailTests.cs",
+              "RelativeToolTip": "..\\UserManagement.Tests\\DuplicateEmailTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:52:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Dtos\\UserCreateRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserCreateRequest.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Dtos\\UserCreateRequest.cs",
+              "RelativeToolTip": "Dtos\\UserCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:40:00.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:39:26.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\UserSeeder.cs",
+              "RelativeDocumentMoniker": "UserSeeder.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\UserSeeder.cs",
+              "RelativeToolTip": "UserSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:38:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:35:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagingLogicTests.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement.Tests\\PagingLogicTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagement.Tests\\PagingLogicTests.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement.Tests\\PagingLogicTests.cs",
+              "RelativeToolTip": "..\\UserManagement.Tests\\PagingLogicTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:35:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:33:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "CQRS\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "CQRS\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:32:49.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Queries\\SearchUsersQuery.cs",
+              "RelativeDocumentMoniker": "CQRS\\Queries\\SearchUsersQuery.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Queries\\SearchUsersQuery.cs",
+              "RelativeToolTip": "CQRS\\Queries\\SearchUsersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:32:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "CQRS\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "CQRS\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:27:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Dtos\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Dtos\\UserResponse.cs",
+              "RelativeToolTip": "Dtos\\UserResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:40:12.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:42:06.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:41:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InMemoryUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Repositories\\InMemoryUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InMemoryUserRepository.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Repositories\\InMemoryUserRepository.cs",
+              "RelativeToolTip": "Repositories\\InMemoryUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:30:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:30:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "CQRS\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "CQRS\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:28:36.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "CQRS\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "CQRS\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:25:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IHandlerInterface.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Interfaces\\IHandlerInterface.cs",
+              "RelativeDocumentMoniker": "CQRS\\Interfaces\\IHandlerInterface.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\CQRS\\Interfaces\\IHandlerInterface.cs",
+              "RelativeToolTip": "CQRS\\Interfaces\\IHandlerInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:25:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignInRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Dtos\\SignInRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\SignInRequest.cs",
+              "ToolTip": "C:\\Users\\hobert.nguyen\\Desktop\\Personal\\UserManagement\\Dtos\\SignInRequest.cs",
+              "RelativeToolTip": "Dtos\\SignInRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T15:19:16.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
